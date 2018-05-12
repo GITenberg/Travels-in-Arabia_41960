@@ -1,0 +1,39 @@
+_repo: Travels-in-Arabia_41960
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Taylor, Bayard
+    aliases:
+    - Taylor, James Bayard
+    - Taylor, J. B.
+    - Taylor, J.B.
+    birthdate: 1825
+    deathdate: 1878
+    gutenberg_agent_id: '167'
+    url: http://www.gutenberg.org/2009/agents/167
+    wikipedia: http://en.wikipedia.org/wiki/Bayard_Taylor
+  editor:
+    agent_name: Stevens, Thomas
+    alias: Stevens, T. (Thomas)
+    birthdate: 1854
+    deathdate: 1935
+    gutenberg_agent_id: '1710'
+    url: http://www.gutenberg.org/2009/agents/1710
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Stevens_%28cyclist%29
+description: ''
+gutenberg_issued: '2013-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41960'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arabian Peninsula -- Description and travel'
+- !lcc 'DS'
+title: Travels in Arabia
+url: http://www.gutenberg.org/ebooks/41960
